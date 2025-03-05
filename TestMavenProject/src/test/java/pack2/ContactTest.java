@@ -15,7 +15,7 @@ public class ContactTest {
 		String Password = System.getProperty("password");
 		
 		
-		System.out.println(Url);
+		System.out.println(Url + Browser + Username + Password);
 		System.out.println(Browser);
 		System.out.println(Username);
 		System.out.println(Password);
